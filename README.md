@@ -8,9 +8,9 @@ I've been playing a little with transposing GIF images, i.e. swapping between th
 
 This one is especially nice:
 
-![elephants](elephtants_small.gif)
+![elephants](elephants_small.gif)
 
-![elephants_t](elephtants_t_small.gif)
+![elephants_t](elephants_t_small.gif)
 
 
 
